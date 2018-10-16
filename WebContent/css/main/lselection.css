@@ -1,0 +1,15 @@
+@charset "EUC-KR";
+.lsection{position:relative;border:2px solid #e9e9e9;background:#fff;font-size:12px;line-height:normal;*zoom:1; left:40px; top: 100px;}
+.lsection .hx{margin:0;padding:10px 0 7px 9px;border:1px solid #fff;background:#f7f7f7 url(img/br_section_title.gif) repeat-x left bottom;font-size:12px;line-height:normal;color:#333}
+.lsection .tx{padding:10px;border-top:1px solid #e9e9e9;color:#666;height: 300px;   }
+.lsection .section_more{position:absolute;top:9px;right:10px;font:11px Dotum, µ¸¿ò, Tahoma;color:#656565;text-decoration:none !important}
+.lsection .section_more span{font:14px/1 Tahoma;color:#6e89aa}
+
+.lsection2{position:relative;border:2px solid #e9e9e9;background:#fff;font-size:12px;line-height:normal;*zoom:1; left:40px; top: 150px;}
+.lsection2 .hx{margin:0;padding:10px 0 7px 9px;border:1px solid #fff;background:#f7f7f7 url(img/br_section_title.gif) repeat-x left bottom;font-size:12px;line-height:normal;color:#333}
+.lsection2 .tx{padding:10px;border-top:1px solid #e9e9e9;color:#666;height: 300px; border:2px solid #e9e9e9;background:#fff;font-size:12px;  }
+
+.addFriend{position:relative;border:1px solid #e9e9e9;background:#fff;font-size:12px;line-height:normal;*zoom:1; left:40px; top: 200px;}
+.addFriend .hx{margin:0;padding:10px 0 7px 9px;border:1px solid #fff;background:#f7f7f7;font-size:12px;line-height:normal;color:#333}
+.afbutton{position: relative; left:30px;}
+.aftext{position: relative; left:20px;}

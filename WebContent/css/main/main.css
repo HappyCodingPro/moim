@@ -1,0 +1,37 @@
+ @charset "EUC-KR";
+    body {
+        text-align: center;
+        color: #FFF;
+        width: 1900px;
+        height: 1700px;
+       
+    }
+    div#wapper {
+        width: 100%;
+        text-align: left;
+        margin: 0 auto;
+    }
+    header {
+        height: 300px;
+        width: 100%;
+    }
+    #navnav, section, aside {
+        float: left;
+        height: 1300px;
+    }
+    #navnav {
+        width: 15%;
+    }
+    section {
+        width: 70%; 
+    
+    }
+    aside {
+        width: 14%; 
+    }
+    footer {
+        height:100px;
+        position: relatiev;
+        clear: both;
+    }
+  
